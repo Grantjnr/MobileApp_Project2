@@ -34,12 +34,12 @@ class _DashboardHomeState extends State<DashboardHome> {
 final List<Map<String, dynamic>> courses = [
   {
     "name": "Mobile App Development",
-    "instructor": "Mr. Borchoay",
+    "instructor": "Mr. Emmanuel",
     "icon": Icons.phone_android
   },
   {
     "name": "Python Programming",
-    "instructor": "Mr. Ayiey",
+    "instructor": "Mr. Ayitey",
     "icon": Icons.code   // using a generic code icon
   },
   {
